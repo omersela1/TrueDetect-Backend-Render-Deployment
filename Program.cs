@@ -75,6 +75,14 @@ builder.Services.AddApplicationServices();
 
 builder.Services.AddKeycloakAuthentication(builder.Configuration);
 
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(int.Parse(port));
+});
+
 var app = builder.Build();
 
 var checker = app.Services

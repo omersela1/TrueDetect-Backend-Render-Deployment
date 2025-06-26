@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/TrueDetectWebAPI.csproj": {}
+    "/Users/omersela/Documents/TrueDetect Backend Render/TrueDetect-Backend-Render-Deployment/TrueDetectWebAPI.csproj": {}
   },
   "projects": {
-    "/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/TrueDetectWebAPI.csproj": {
+    "/Users/omersela/Documents/TrueDetect Backend Render/TrueDetect-Backend-Render-Deployment/TrueDetectWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/TrueDetectWebAPI.csproj",
+        "projectUniqueName": "/Users/omersela/Documents/TrueDetect Backend Render/TrueDetect-Backend-Render-Deployment/TrueDetectWebAPI.csproj",
         "projectName": "TrueDetectWebAPI",
-        "projectPath": "/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/TrueDetectWebAPI.csproj",
+        "projectPath": "/Users/omersela/Documents/TrueDetect Backend Render/TrueDetect-Backend-Render-Deployment/TrueDetectWebAPI.csproj",
         "packagesPath": "/Users/omersela/.nuget/packages/",
-        "outputPath": "/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/",
+        "outputPath": "/Users/omersela/Documents/TrueDetect Backend Render/TrueDetect-Backend-Render-Deployment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/omersela/.nuget/NuGet/NuGet.Config"
