@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hxe0yWhoNUPXOES8Hs4yPGxEOQLZqnHULPToBIWrjOE=",
+  "Source": "TrueDetectWebAPI",
+  "BasePath": "_content/TrueDetectWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

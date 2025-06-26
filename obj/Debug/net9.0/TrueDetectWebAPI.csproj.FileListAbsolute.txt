@@ -1,0 +1,85 @@
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/appsettings.Development.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/appsettings.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/TrueDetectWebAPI.staticwebassets.endpoints.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/TrueDetectWebAPI
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/TrueDetectWebAPI.deps.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/TrueDetectWebAPI.runtimeconfig.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/TrueDetectWebAPI.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/TrueDetectWebAPI.pdb
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/StackExchange.Redis.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.csproj.AssemblyReference.cache
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.AssemblyInfoInputs.cache
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.AssemblyInfo.cs
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.csproj.CoreCompileInputs.cache
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/scopedcss/bundle/TrueDetectWebAPI.styles.css
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets.build.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets.development.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets/msbuild.TrueDetectWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets/msbuild.TrueDetectWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets/msbuild.build.TrueDetectWebAPI.props
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TrueDetectWebAPI.props
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TrueDetectWebAPI.props
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDete.DD5AC1EB.Up2Date
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/refint/TrueDetectWebAPI.dll
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.pdb
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/TrueDetectWebAPI.genruntimeconfig.cache
+/Users/omersela/Documents/TrueDetect/TrueDetect Backend/TrueDetectWebAPI/obj/Debug/net9.0/ref/TrueDetectWebAPI.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/appsettings.Development.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/appsettings.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/TrueDetectWebAPI.staticwebassets.endpoints.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/TrueDetectWebAPI
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/TrueDetectWebAPI.deps.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/TrueDetectWebAPI.runtimeconfig.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/TrueDetectWebAPI.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/TrueDetectWebAPI.pdb
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/StackExchange.Redis.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.csproj.AssemblyReference.cache
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.AssemblyInfoInputs.cache
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.AssemblyInfo.cs
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.csproj.CoreCompileInputs.cache
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.sourcelink.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/scopedcss/bundle/TrueDetectWebAPI.styles.css
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets.build.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets.development.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets/msbuild.TrueDetectWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets/msbuild.TrueDetectWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets/msbuild.build.TrueDetectWebAPI.props
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TrueDetectWebAPI.props
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TrueDetectWebAPI.props
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDete.DD5AC1EB.Up2Date
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/refint/TrueDetectWebAPI.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.pdb
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/TrueDetectWebAPI.genruntimeconfig.cache
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/obj/Debug/net9.0/ref/TrueDetectWebAPI.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/omersela/Documents/SE FINAL PROJECT/TRUEDETECT/Backend/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
