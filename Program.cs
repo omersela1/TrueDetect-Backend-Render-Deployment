@@ -83,6 +83,8 @@ builder.WebHost.ConfigureKestrel(options =>
     options.ListenAnyIP(int.Parse(port));
 });
 
+Console.WriteLine($"Listening on port: {port}");
+
 var app = builder.Build();
 
 var checker = app.Services
@@ -92,7 +94,7 @@ var checker = app.Services
 
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
