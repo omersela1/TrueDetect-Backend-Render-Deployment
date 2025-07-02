@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrueDetectWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baa815964c0c101159db16f363e2f0433f21fadd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a6f3b8b3d838894f92077c26ab2801251c77c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrueDetectWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrueDetectWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

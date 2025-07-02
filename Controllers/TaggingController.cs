@@ -29,21 +29,21 @@ namespace TrueDetectWebAPI.Controllers {
         }
 
         [HttpPost("SetTagging/{line}/{tag}")]
-        public void Post(string line, string tag)
+        public void Post([FromBody] TagRequest request)
         {
-            if (line == null)
+            if (request.Line == null)
             {
                 throw new Exception("Invalid line");
             }
-            if (tag == null)
+            if (request.Tag == null)
             {
                 throw new Exception("Invalid tag");
             }
-            if (tag != TagType.Untagged.ToString() && tag != TagType.Safe.ToString() && tag != TagType.Threat.ToString())
+            if (request.Tag != TagType.Untagged.ToString() && request.Tag != TagType.Safe.ToString() && request.Tag != TagType.Threat.ToString())
             {
                 throw new Exception("Invalid tag");
             }
-            _taggingRedisService.SetTagging(line, tag);
+            _taggingRedisService.SetTagging(request.Line, request.Tag);
         }
 
         [HttpDelete("RemoveTagging/{line}")]
