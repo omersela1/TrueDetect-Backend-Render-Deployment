@@ -28,7 +28,7 @@ namespace TrueDetectWebAPI.Controllers {
             };
         }
 
-        [HttpPost("SetTagging/{line}/{tag}")]
+        [HttpPost("SetTagging")]
         public void Post([FromBody] TagRequest request)
         {
             if (request.Line == null)
